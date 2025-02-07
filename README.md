@@ -83,8 +83,8 @@
 ### My GitHub Stats
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=NaClNeZn&show_icons=true" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaClNeZn&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=graywhite" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NaClNeZn&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaClNeZn&layout=compact"/>
 </div>
 
 
